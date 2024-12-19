@@ -11,5 +11,6 @@ public class ReadinessConfig {
 
     private String podUrl;
     private String uri = "";
+    private int timeoutInSeconds = 5;
 
 }
